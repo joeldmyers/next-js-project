@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Link from 'next/link';
-import '../../scss/style.scss';
+import './Navbar.scss';
 
 class Navbar extends Component {
 
