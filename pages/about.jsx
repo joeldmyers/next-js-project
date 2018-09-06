@@ -1,3 +1,5 @@
+import React from 'react';
+
 const About = () => (
   <section>
     <h1>About Next JS</h1>
